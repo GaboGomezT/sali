@@ -5,7 +5,6 @@
 ## Commands
 Install libraries
 ```bash
-pip install numpy
 pip install matplotlib
 pip install PyQt5
 ```
