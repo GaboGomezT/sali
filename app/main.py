@@ -32,7 +32,7 @@ class MainWindow(QMainWindow):
         self.show()
 
     def openFileDialog(self):
-        fname = QFileDialog.getOpenFileName(self, 'Open file', '/home', 'JSON files (*.json)')
+        fname = QFileDialog.getOpenFileName(self, 'Open file', '/home', 'Text files (*.txt)')
         
         if fname[0]:
             f = open(fname[0], 'r')
