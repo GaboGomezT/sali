@@ -1,0 +1,7 @@
+Clasificar Tipos de Compradores/Clientes
+Colas de Mensajes en Espera
+X -- Horarios con más chats
+¿Cuál es la pregunta más frecuente?
+Tiempo promedio de respuesta en conversaciones que convierten/ o no convierten
+¿Cuál es la pregunta que tardamos más en responder?
+Los que no convirtieron, en qué parte del funnel se quedaron?   
