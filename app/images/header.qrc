@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="header">
+    <file>header-left.PNG</file>
+    <file>header-right.PNG</file>
+    <file>partners.PNG</file>
+  </qresource>
+</RCC>

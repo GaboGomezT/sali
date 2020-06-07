@@ -1,0 +1,133 @@
+4/17/20, 11:43 AM - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+4/17/20, 11:43 AM - Ben Cliente: Hola
+4/17/20, 11:43 AM - Ben Cliente: Buenos días
+4/17/20, 11:43 AM - Gabo: Hola buenos días
+4/17/20, 11:45 AM - Ben Cliente: como quieres que hagamos la videollamada?
+4/17/20, 11:54 AM - Gabo: Estas en compu?
+4/17/20, 11:54 AM - Ben Cliente: skype?
+4/17/20, 11:54 AM - Gabo: Te iba mandar link a un meet.google
+4/17/20, 11:54 AM - Ben Cliente: ok
+4/17/20, 11:54 AM - Ben Cliente: mandamelo, si prefieres
+4/17/20, 11:55 AM - Gabo: Vale, dame 5 minutos. Mi lap se quedó sin pila y la acabo de conectar jaja
+4/17/20, 11:55 AM - Ben Cliente: 🆗
+4/17/20, 11:57 AM - Gabo: https://meet.google.com/atr-sahv-vya
+4/17/20, 11:57 AM - Gabo: listo
+4/17/20, 11:58 AM - Ben Cliente: tiene codigo de reunion
+4/17/20, 11:58 AM - Gabo: solicita entrar y lo acepto
+4/17/20, 12:10 PM - Ben Cliente: Se trabó mi compu
+4/17/20, 12:10 PM - Ben Cliente: Estoy reiniciando
+4/17/20, 12:10 PM - Gabo: Vale
+4/17/20, 12:50 PM - Ben Cliente: https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
+4/17/20, 12:56 PM - Gabo: Perfecto, muchas gracias
+4/17/20, 1:16 PM - Ben Cliente: A qué correo te comparto las fotografías?
+4/17/20, 1:19 PM - Gabo: gomezgabriel09@gmail.com
+4/17/20, 1:32 PM - Ben Cliente: Ya las estoy compartiendo en Dropbox
+4/17/20, 5:51 PM - Gabo: Hola disculpe lo acabo de revisar
+4/17/20, 5:51 PM - Gabo: Mi cuenta de dropbox está llena
+4/17/20, 5:51 PM - Gabo: Me lo podría compartir por drive?
+4/17/20, 5:52 PM - Ben Cliente: 🆗
+4/17/20, 6:09 PM - Ben Cliente: Ya compartí la carpeta pero falta que se suban las fotos
+4/17/20, 6:09 PM - Gabo: vale, perfecto
+5/1/20, 3:11 PM - Ben Cliente: Hola
+5/1/20, 3:11 PM - Ben Cliente: Buenas tardes
+5/1/20, 3:11 PM - Gabo: Hola qué tal buenas tardes!
+5/1/20, 3:11 PM - Ben Cliente: Has visto algo del software?
+5/1/20, 3:12 PM - Gabo: Una disculpa, he estado configurando mi compu y esta semana que tenía todo listo he estado más involucrado con mi trabajo.
+Pero voy a aprovechar este fin de semana largo para hacer la prueba que te comenté
+5/1/20, 3:13 PM - Gabo: Te parece si el domingo tenemos una llamada para que veamos el resultado?
+5/1/20, 3:13 PM - Ben Cliente: Si, claro
+5/1/20, 3:13 PM - Gabo: Súper, a qué hora te queda?
+5/1/20, 3:15 PM - Ben Cliente: Cualquier hora está bien
+5/1/20, 3:50 PM - Gabo: A las 2 te parece bien?
+5/1/20, 3:56 PM - Ben Cliente: Está bien
+5/1/20, 8:19 PM - Gabo: Hola buenas noches
+5/1/20, 8:19 PM - Gabo: Disculpe ya estaba haciendo unas pruebas y revisando el folder de Enfocados del Drive veo que está vacío
+5/1/20, 8:20 PM - Ben Cliente: deja reviso
+5/1/20, 9:46 PM - Ben Cliente: ya están arriba
+5/1/20, 10:49 PM - Gabo: Muchas gracias
+5/1/20, 10:50 PM - Gabo: Ya tengo la prueba casi lista.
+5/1/20, 10:50 PM - Gabo: Pregunta. Los archivos tienen los mismos nombres que en la carpeta de *Todas*?
+5/1/20, 10:55 PM - Ben Cliente: si
+5/1/20, 10:55 PM - Gabo: Excelente
+5/1/20, 10:55 PM - Gabo: Si gustas mañana mismo hacemos una prueba
+5/1/20, 10:56 PM - Ben Cliente: 🆗
+5/1/20, 10:56 PM - Gabo: A las 3 le parece?
+5/2/20, 2:51 PM - Gabo: Hola buenas tardes
+5/2/20, 2:51 PM - Gabo: Cómo está?
+5/2/20, 2:52 PM - Ben Cliente: Buenas tardes
+5/2/20, 2:52 PM - Ben Cliente: Yo bien gracias
+5/2/20, 2:52 PM - Ben Cliente: Tú qué tal?
+5/2/20, 2:52 PM - Gabo: Muy bien gracias
+5/2/20, 2:52 PM - Gabo: Disculpe haciendo un poco análisis me doy cuenta que las siguientes imágenes las puso en la carpeta de Enfocadas pero no está en la carpeta de Todas 
+20170430-0194.JPG
+20170430-0195.JPG
+20170430-0198.JPG
+20170430-0200.JPG
+5/2/20, 2:53 PM - Gabo: las ignoro o las mantengo ahí? O hubo un cambio de nombre de archivo? para tomarlo en cuenta
+5/2/20, 2:54 PM - Ben Cliente: Voy a revisar
+5/2/20, 2:54 PM - Ben Cliente: Pero si no están en “todas” habrá que dejarlas a un lado para las pruebas, no?
+5/2/20, 2:56 PM - Gabo: Se tendrían que quitar completamente de la prueba o si sí me confirma que son ejemplos de fotos enfocadas las tendría que copiar y pegar a la carpeta de Todas. Para que la prueba funcione
+5/2/20, 2:58 PM - Ben Cliente: Pero en “todas” ya tenemos 100 fotografías, no?
+5/2/20, 3:00 PM - Gabo: Son 91, y lo que me importa es que las todas las imágenes que están en la carpeta  *Enfocadas* también estén en la carpeta de *Todas*. La prueba que haré es correr el algoritmo para las imágenes en *Todas* y revisar que las que clasifique como enfocadas sean las mismas que las que están en la carpeta *Enfocadas*
+5/2/20, 3:01 PM - Gabo: pero si hay imágenes en *Enfocadas* que no existen en *Todas* pues la prueba nunca saldrá bien
+5/2/20, 3:06 PM - Ben Cliente: Entonces faltaron imágenes en “todas”
+5/2/20, 3:06 PM - Ben Cliente: Deberían ser 100
+5/2/20, 3:07 PM - Gabo: Las que están en *Enfocadas* que no están en *Todas* sólo son 4.
+5/2/20, 3:07 PM - Gabo: Me podría ayudar a revisar eso, por favor?
+5/2/20, 8:57 PM - Gabo: Hola buenas noches, disculpe por la hora
+5/2/20, 8:57 PM - Gabo: pudo revisar este tema?
+5/2/20, 9:50 PM - Ben Cliente: Buenas noches
+5/2/20, 9:50 PM - Ben Cliente: No estoy en casa
+5/2/20, 9:51 PM - Ben Cliente: En cuanto pueda revisar te aviso
+5/2/20, 9:56 PM - Gabo: Vale, está bien
+5/3/20, 10:58 AM - Ben Cliente: buenos dias
+5/3/20, 10:59 AM - Ben Cliente: ya revise las carpetas de fotos
+5/3/20, 11:23 AM - Gabo: buenos días
+5/5/20, 11:02 AM - Ben Cliente: Hola
+5/5/20, 11:02 AM - Ben Cliente: Buenos días
+5/5/20, 11:02 AM - Ben Cliente: Ya están bien las fotografías para hacer las pruebas?
+5/5/20, 4:03 PM - Gabo: Hola buenos días! Disculpe por responder apenas
+5/5/20, 4:04 PM - Gabo: Hoy hago la prueba nuevamente para verificar eso
+5/5/20, 4:04 PM - Gabo: Y si quiere mañana hacemos esa validación por llamada
+5/5/20, 4:05 PM - Gabo: Y usted mi dirá si la clasificación de borrosa/no borrosa es óptima para su uso. En cuanto me confirme eso yo empiezo a desarrollar el resto de la aplicación
+5/5/20, 4:05 PM - Gabo: Le parece bien?
+5/5/20, 4:08 PM - Ben Cliente: Bien
+5/5/20, 4:11 PM - Gabo: A qué hora le parece bien mañana?
+5/14/20, 2:35 PM - Gabo: Hola qué tal
+5/14/20, 2:55 PM - Ben Cliente: Hola
+5/14/20, 4:35 PM - Gabo: Hoy anda libre para que le demos seguimiento al proyecto?
+5/14/20, 4:35 PM - Gabo: Como a las 7
+5/14/20, 4:35 PM - Ben Cliente: te parece a las 8?
+5/14/20, 4:35 PM - Gabo: Me parece perfecto
+5/14/20, 4:35 PM - Ben Cliente: bien
+5/14/20, 7:17 PM - Gabo: Disculpa  cree que podamos tener la llamada a las 9? Disculpe el inconveniente
+5/14/20, 7:18 PM - Ben Cliente: Claro, sin problema
+5/14/20, 7:21 PM - Gabo: Muchas gracias
+5/14/20, 9:03 PM - Ben Cliente: Hola
+5/14/20, 9:03 PM - Gabo: Hola! En 5 minutos te llamo
+5/14/20, 9:04 PM - Gabo: Por teléfono para más fácil
+5/14/20, 9:06 PM - Ben Cliente: 🆗
+5/14/20, 9:12 PM - Gabo: <Media omitted>
+5/14/20, 9:16 PM - Gabo: <Media omitted>
+5/14/20, 9:30 PM - Gabo: https://drive.google.com/drive/folders/1excHQxGJjhZtOs8Cb9edQlLB_teg3_oD?usp=sharing
+5/17/20, 4:41 PM - Gabo: Hola Ben! Buenas tardes, cómo estás?
+5/17/20, 5:42 PM - Ben Cliente: Buenas tardes
+5/17/20, 5:43 PM - Ben Cliente: Ya tengo algunas fotografías pero no las he subido
+5/17/20, 5:44 PM - Ben Cliente: Ahora no estoy en casa
+5/17/20, 5:44 PM - Ben Cliente: Creo que por la noche subiré las imágenes
+5/17/20, 5:46 PM - Gabo: Ok perfecto
+5/17/20, 5:46 PM - Gabo: Incluso si tiene tiempo podrias correr la prueba en cuanto tenga esas fotos subidas
+5/17/20, 5:53 PM - Gabo: Podría *
+5/18/20, 7:53 PM - Ben Cliente: Hola
+5/18/20, 7:53 PM - Ben Cliente: Ya subí más fotos de prueba
+5/19/20, 12:21 AM - Gabo: Perfecto,  lo reviso hoy
+5/19/20, 12:21 AM - Gabo: Mañana a qué hora anda libre?
+5/29/20, 8:41 PM - Ben Cliente: Hola
+5/29/20, 8:56 PM - Gabo: Hola qué tal
+5/29/20, 9:00 PM - Ben Cliente: Ya no supe si hiciste más pruebas con las fotografías
+5/29/20, 9:00 PM - Ben Cliente: Ya no tuve oportunidad de subir más fotos
+5/29/20, 9:01 PM - Ben Cliente: Pero puse 3 carpetas
+5/29/20, 10:15 PM - Gabo: Si quiere podemos tener otra reunión el domingo
+5/29/20, 10:15 PM - Gabo: A qué hora le queda?
+5/29/20, 10:44 PM - Ben Cliente: Por la mañana
+5/29/20, 10:46 PM - Gabo: A las 11?
