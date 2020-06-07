@@ -1,5 +1,8 @@
+![logo-sali](https://user-images.githubusercontent.com/13697123/83982353-cdb20b80-a8eb-11ea-8995-19b4698f5eb8.png)
+
 ## Tools
 [Python](https://www.python.org/downloads)
+
 [Qt Designer](https://build-system.fman.io/qt-designer-download)
 
 ## Commands
